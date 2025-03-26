@@ -1,12 +1,12 @@
-🌱 Environmental Awareness & Sustainable Practices Analysis
+# **🌱 Environmental Awareness & Sustainable Practices Analysis**
 
 
 
 This project explores environmental awareness and sustainability practices among individuals through a survey-based data collection and analysis using Power BI. The objective is to understand how aware people are about their environmental impact and whether they actively engage in reducing it through sustainable practices.
 
+---
 
-
-📋 Project Overview
+#### **📋 Project Overview**
 
 We conducted a survey using a Google Form to collect responses from a diverse audience. The survey focused on:
 
@@ -26,9 +26,9 @@ A total of 132 responses were collected and categorized into three main sections
 
 3.	Sustainable Practices Engagement
 
-   
+ ---  
 
-📊 Dataset Structure
+#### **📊 Dataset Structure**
 
 1. Demographics Table
    
@@ -75,8 +75,9 @@ This highlights actual environmental behavior:
 
 These indicators show how knowledge translates into real-world actions.
 
+---
 
-🔗 Data Modelling in Power BI
+#### **🔗 Data Modelling in Power BI**
 
 Using Power BI, relationships were established between the tables via the Response_ID key:
 
@@ -90,9 +91,9 @@ These connections allow for cross-sectional analysis, such as:
 
 •	Whether a higher level of awareness leads to better practices
 
+---
 
-
-📈 Key Insights
+#### **📈 Key Insights**
 
 •	Visualization and filtering capabilities in Power BI helped reveal important trends
 
@@ -100,8 +101,8 @@ These connections allow for cross-sectional analysis, such as:
 
 •	Insights can be used to design targeted awareness campaigns and sustainability education for specific groups.
 
-________________________________________
-📂 Files
+---
+#### **📂 Files**
 
 
 •	Power BI Report: Environmental Awareness Data Analysis.pbix
