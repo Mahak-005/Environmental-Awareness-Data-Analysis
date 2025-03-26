@@ -1,4 +1,5 @@
 🌱 Environmental Awareness & Sustainable Practices Analysis
+
 This project explores environmental awareness and sustainability practices among individuals through a survey-based data collection and analysis using Power BI. The objective is to understand how aware people are about their environmental impact and whether they actively engage in reducing it through sustainable practices.
 📋 Project Overview
 We conducted a survey using a Google Form to collect responses from a diverse audience. The survey focused on:
